@@ -1,0 +1,22 @@
+/* CSS Externo */
+
+/* tags */
+h1 {
+    font-size: 64px;
+    }
+
+h2 {        
+    font-size: 48px;
+    color: blue;
+
+    }
+/* ID */
+    #titulo {
+        background-color: bisque;
+        text-align: center;
+    }
+/* Classe */
+    .titulo {
+        font-size: 48px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
