@@ -37,7 +37,7 @@ Cada projeto está em sua própria pasta.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone (https://github.com/VitorTakiuti/5DaysOfJavaScript.git)
     ```
 2.  **Para os projetos 1, 2 e 4 (HTML/CSS/JS):**
     * Navegue até a pasta do projeto (ex: `cd projeto-audiobook`).
@@ -85,7 +85,7 @@ Each project is in its own folder.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+    git clone (https://github.com/VitorTakiuti/5DaysOfJavaScript.git)
     ```
 2.  **For projects 1, 2, and 4 (HTML/CSS/JS):**
     * Navigate to the project folder (e.g., `cd project-audiobook`).
